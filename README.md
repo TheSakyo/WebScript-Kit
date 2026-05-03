@@ -43,5 +43,5 @@
 
 ## 📜 License / Licence
 
-MIT
+GPL 3.0
 
