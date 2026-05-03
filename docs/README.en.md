@@ -17,8 +17,9 @@ Each script is fully independent and can be installed or removed without depende
 
 ```
 scripts/
-  └── example-script.user.js
-  └── another-script.user.js
+  └── example-script.js
+  └── another-script.ts
+  └── ...
 ```
 
 ---
