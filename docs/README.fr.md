@@ -17,8 +17,9 @@ Chaque script est totalement indépendant et peut être installé ou supprimé s
 
 ```
 scripts/
-  └── example-script.user.js
-  └── another-script.user.js
+  └── example-script.js
+  └── another-script.ts
+  └── ...
 ```
 
 ---
