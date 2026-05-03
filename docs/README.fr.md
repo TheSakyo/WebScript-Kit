@@ -59,4 +59,5 @@ Améliorer, sans remplacer.
 
 ## 📜 Licence
 
-MIT
+GPL 3.0
+
