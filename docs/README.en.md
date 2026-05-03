@@ -59,4 +59,5 @@ Enhance, don’t replace.
 
 ## 📜 License
 
-MIT
+GPL 3.0
+
