@@ -1,32 +1,34 @@
-# WebScript Kit
+# 🌐 WebScript Kit
 
-Lightweight collection of powerful userscripts to enhance and extend modern web applications.
+A lightweight collection of powerful userscripts designed to enhance and extend modern web applications without breaking their native behavior.
 
 ---
 
-## 🚀 Overview
+## ✨ Overview
 
-WebScript Kit is a minimal collection of standalone userscripts designed to improve web platforms with lightweight enhancements.
-
-No framework. No dependencies. Just clean scripts.
+WebScript Kit is a modular set of userscripts focused on performance, simplicity, and UI consistency.  
+Each script integrates seamlessly into existing web platforms, improving usability without modifying core logic.
 
 ---
 
 ## 📦 Structure
 
-scripts/
-  youtube-description-preview.user.js
+Each script is fully independent and can be installed or removed without dependencies.
 
-Each script works independently.
+```
+scripts/
+  └── example-script.user.js
+  └── another-script.user.js
+```
 
 ---
 
-## ✨ Features
+## 🚀 Purpose
 
-- Lightweight
-- No dependencies
-- Native-like UI integration
-- Easy installation via userscript managers
+- Improve usability of modern web apps  
+- Add missing quality-of-life features  
+- Enhance UI interactions without modifying backend behavior  
+- Stay lightweight and non-intrusive  
 
 ---
 
@@ -35,7 +37,23 @@ Each script works independently.
 - Violentmonkey
 - Tampermonkey
 - Greasemonkey
-- Modern browsers
+- Chrome / Edge / Firefox
+
+---
+
+## ⚙️ Features
+
+- Lightweight execution
+- No external dependencies
+- Modular architecture
+- Safe DOM manipulation
+- Long-term maintainability
+
+---
+
+## 🛡️ Philosophy
+
+Enhance, don’t replace.
 
 ---
 
