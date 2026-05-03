@@ -43,6 +43,17 @@
 * Tampermonkey
 * Greasemonkey
 * Chrome / Edge / Firefox
+* 
+---
+
+## 👀 See Also / Voir aussi
+
+**EN**: Related projects and extensions from the same ecosystem.
+</br></br>
+**FR:** Projets et extensions liés du même écosystème.
+
+🎨 WebStyle Kit – Collection de styles utilisateurs pour personnaliser le web
+👉 https://github.com/TheSakyo/WebStyle-Kit
 
 ---
 
