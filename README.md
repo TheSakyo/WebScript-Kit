@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Detailed Documentation / Documentation Détaillées
+## 🌐 Detailed Documentation / Documentation Détaillée
 
 * [English](docs/README.en.md)
 * [Français](docs/README.fr.md)
