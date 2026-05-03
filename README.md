@@ -48,11 +48,12 @@
 
 ## 👀 See Also / Voir aussi
 
-**EN**: Related projects and extensions from the same ecosystem.
-</br></br>
-**FR:** Projets et extensions liés du même écosystème.
+> **EN:** Related projects and extensions from the same ecosystem.
+> 
+> **FR:** Projets et extensions liés du même écosystème.
 
-**🎨 WebStyle Kit => https://github.com/TheSakyo/WebStyle-Kit**
+* 🎨 **WebStyle Kit** → https://github.com/TheSakyo/WebStyle-Kit
+
 ---
 
 ## 📜 License / Licence
