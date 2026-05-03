@@ -1,7 +1,7 @@
 # WebScript Kit
 
 **EN:** Lightweight collection of powerful userscripts to enhance and extend modern web applications. 
-</br>
+</br></br>
 **FR:** Collection légère de userscripts puissants pour améliorer et étendre les applications web modernes.
 
 ---
